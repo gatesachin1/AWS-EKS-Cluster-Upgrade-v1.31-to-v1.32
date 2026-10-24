@@ -428,8 +428,7 @@ kubectl rollout undo deployment/<app-name>
 
 **Sachin Gate**
 DevOps & AWS Cloud Engineer
-- 📧 sachin.gate.devops@gmail.com
-- 🏢 Elliot Systems Pvt. Ltd., Pune
+- 📧 gatesachin1112@gmail.com
 - 🌐 [Cloudnest Technology Solutions](https://cloudnesttechnologysolutions.in)
 
 ---
