@@ -426,10 +426,15 @@ kubectl rollout undo deployment/<app-name>
 
 ## 👨‍💻 Author
 
-**Sachin Gate**
-DevOps & AWS Cloud Engineer
-- 📧 gatesachin1112@gmail.com
-- 🌐 [Cloudnest Technology Solutions](https://cloudnesttechnologysolutions.in)
+### [Sachin Gate](https://gatesachin1.github.io/)
+*DevOps & AWS Cloud Engineer*
+
+| | |
+|---|---|
+| 📧 **Email** | [gatesachin1112@gmail.com](mailto:gatesachin1112@gmail.com) |
+| 🌐 **Website** | [Cloudnest Technology Solutions](https://cloudnesttechnologysolutions.in) |
+
+> 💬 Found this guide useful? Give the repo a ⭐ — questions and suggestions are welcome via [Issues](https://github.com/gatesachin1/AWS-EKS-Cluster-Upgrade-v1.31-to-v1.32/issues).
 
 ---
 
